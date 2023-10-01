@@ -20,13 +20,13 @@
 				$texte = stripslashes($texte);
 
 				// Recipient and subject of the message
-				$destinataire = "contact@gmail.com"; // input your email here
-				$objet = "Message from your < site name >"; // input your domain name here
+				$destinataire = "info@club1021.johnmarcusaziz.com"; // input your email here
+				$objet = "Message from your Club 1021 and the Sluts"; // input your domain name here
 
 				// Headers
 	      $headers = array(
 	                      'Content-type' => 'text/html',
-	                      'From' => 'form@yourbandname.com', // input your email from here
+	                      'From' => 'info@club1021.johnmarcusaziz.com', // input your email from here
 	                      'X-Mailer' => 'PHP/' . phpversion()
 	                  );
 
